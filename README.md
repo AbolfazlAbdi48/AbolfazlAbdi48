@@ -20,8 +20,4 @@
     personal = {
 	    'language': ['Python', 'Javascript'],
 	    'tools': ['Django', 'Git', 'React', 'VSCode', 'PyCharm', 'SCSS'],
-	    'socialmedia': {
-		'instagram': 'abdi.web, abolfazl_._abdi 😉',
-		'telegram': 'abolfazlabdi48 👋'
-	    }
     }

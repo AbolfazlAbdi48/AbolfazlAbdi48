@@ -1,10 +1,10 @@
 <h2 align="center">Contact me 🤙</h2>
 
 # 💫About Me :
-🌐 Hi guys, i am abolfazl abdi
-💻 Web developer and programmer #python #javascript
-⚡ Student of Electronics
-🚀 I love technologies, astronomy & space
+🌐 Hi guys, i am abolfazl abdi </br>
+💻 Web developer and programmer #python #javascript </br>
+⚡ Student of Electronics </br>
+🚀 I love technologies, astronomy & space </br>
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abolfazl_._abdi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AbolfazlAbdiDev) 

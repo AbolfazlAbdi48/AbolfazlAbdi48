@@ -1,8 +1,6 @@
-<h2 align="center">Contact me 🤙</h2>
-
 # 💫About Me :
 🌐 Hi guys, i am abolfazl abdi </br>
-💻 Web developer and programmer #python #javascript </br>
+💻 Web programmer & developer </br>
 ⚡ Student of Electronics </br>
 🚀 I love technologies, astronomy & space </br>
 

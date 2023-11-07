@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻i'm currently working on my idea.<br>🔍blockchain researcher<br> ⚙  tech lover
+💻i'm currently working on my idea!<br> ⚙  tech lover
 
 
 ## 🌐 Socials:
